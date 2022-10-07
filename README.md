@@ -33,3 +33,13 @@ The idea of ChASM extension is to provide basic syntax coloring for x86/x64 Asse
 # Download ChASM from Visual Studio Marketplace
 
 https://marketplace.visualstudio.com/items?itemName=ethicalblue.chasm
+
+# Credits
+
+https://learn.microsoft.com/en-us/visualstudio/extensibility/creating-an-extension-with-an-editor-item-template?view=vs-2022
+
+https://learn.microsoft.com/en-us/visualstudio/extensibility/walkthrough-highlighting-text?view=vs-2022&tabs=csharp
+
+https://learn.microsoft.com/en-us/visualstudio/extensibility/walkthrough-creating-a-margin-glyph?view=vs-2022&tabs=csharp
+
+https://learn.microsoft.com/en-us/visualstudio/extensibility/walkthrough-linking-a-content-type-to-a-file-name-extension?view=vs-2022
