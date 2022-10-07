@@ -1,5 +1,5 @@
 # ChASM-x86-x64-Assembly-Syntax-Highlighter
- Low budget syntax highlighter for Win64 Asm dudes
+ Low budget syntax highlighter for Win64 Asm dudes (quick and dirty solution).
 
 The ethical.blue Magazine has good news for all win64 asm dudes. While waiting for new version of Henk-JanLebbink.AsmDude Visual Studio extension I have decided to create in two business days a simple and free MASM x64 syntax highlighter (named ChASM).
 
